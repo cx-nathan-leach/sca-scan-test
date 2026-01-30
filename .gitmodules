@@ -3,3 +3,4 @@
 	url = https://github.com/the-tcpdump-group/libpcap.git
 [submodule "boost-1.90.0"]
 	path = boost-1.90.0
+	url = https://github.com/boostorg/boost.git
